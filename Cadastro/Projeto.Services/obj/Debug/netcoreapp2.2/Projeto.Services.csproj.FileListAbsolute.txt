@@ -1,0 +1,17 @@
+C:\Users\User\Documents\Curso Coti\Aula16\Aula16\Projeto.Services\bin\Debug\netcoreapp2.2\Projeto.Services.deps.json
+C:\Users\User\Documents\Curso Coti\Aula16\Aula16\Projeto.Services\bin\Debug\netcoreapp2.2\Projeto.Services.runtimeconfig.json
+C:\Users\User\Documents\Curso Coti\Aula16\Aula16\Projeto.Services\bin\Debug\netcoreapp2.2\Projeto.Services.runtimeconfig.dev.json
+C:\Users\User\Documents\Curso Coti\Aula16\Aula16\Projeto.Services\bin\Debug\netcoreapp2.2\Projeto.Services.dll
+C:\Users\User\Documents\Curso Coti\Aula16\Aula16\Projeto.Services\bin\Debug\netcoreapp2.2\Projeto.Services.pdb
+C:\Users\User\Documents\Curso Coti\Aula16\Aula16\Projeto.Services\obj\Debug\netcoreapp2.2\Projeto.Services.csprojAssemblyReference.cache
+C:\Users\User\Documents\Curso Coti\Aula16\Aula16\Projeto.Services\obj\Debug\netcoreapp2.2\Projeto.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Curso Coti\Aula16\Aula16\Projeto.Services\obj\Debug\netcoreapp2.2\Projeto.Services.RazorAssemblyInfo.cache
+C:\Users\User\Documents\Curso Coti\Aula16\Aula16\Projeto.Services\obj\Debug\netcoreapp2.2\Projeto.Services.RazorAssemblyInfo.cs
+C:\Users\User\Documents\Curso Coti\Aula16\Aula16\Projeto.Services\obj\Debug\netcoreapp2.2\Projeto.Services.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Curso Coti\Aula16\Aula16\Projeto.Services\obj\Debug\netcoreapp2.2\Projeto.Services.AssemblyInfo.cs
+C:\Users\User\Documents\Curso Coti\Aula16\Aula16\Projeto.Services\obj\Debug\netcoreapp2.2\Projeto.Services.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\Curso Coti\Aula16\Aula16\Projeto.Services\obj\Debug\netcoreapp2.2\Projeto.Services.dll
+C:\Users\User\Documents\Curso Coti\Aula16\Aula16\Projeto.Services\obj\Debug\netcoreapp2.2\Projeto.Services.pdb
+C:\Users\User\Documents\Curso Coti\Aula16\Aula16\Projeto.Services\bin\Debug\netcoreapp2.2\Projeto.DAL.dll
+C:\Users\User\Documents\Curso Coti\Aula16\Aula16\Projeto.Services\bin\Debug\netcoreapp2.2\Projeto.DAL.pdb
+C:\Users\User\Documents\Curso Coti\Aula16\Aula16\Projeto.Services\obj\Debug\netcoreapp2.2\Projeto.Services.csproj.CopyComplete

@@ -1,0 +1,34 @@
+﻿<Window x:Class="WpfAppServices.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppServices"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="600" Background="#FFF9F7F7">
+    <Grid Margin="0,44,2,-73">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="50*"/>
+            <ColumnDefinition Width="34*"/>
+            <ColumnDefinition Width="91*"/>
+            <ColumnDefinition Width="463*"/>
+            <ColumnDefinition Width="164*"/>
+            <ColumnDefinition Width="88*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Nome: " HorizontalAlignment="Left" Margin="5,116,0,0" VerticalAlignment="Top" Width="200" FontWeight="Bold" Grid.ColumnSpan="3" Grid.Column="2"/>
+        <TextBox x:Name="txtNome" HorizontalAlignment="Left" Height="25" Margin="4,140,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="246" BorderBrush="#FFAEABAB" Foreground="#FF632B2B" Grid.ColumnSpan="3" Grid.Column="2" Background="White"/>
+        <Label Content="Email: " HorizontalAlignment="Left" Margin="180,116,0,0" VerticalAlignment="Top" Width="200" FontWeight="Bold" Grid.Column="4" Grid.ColumnSpan="2"/>
+        <TextBox x:Name="txtEmail" HorizontalAlignment="Left" Height="25" Margin="179,140,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="246" Grid.Column="4" Grid.ColumnSpan="3"/>
+        <Label Content="Data: " HorizontalAlignment="Left" Margin="4,177,0,0" VerticalAlignment="Top" Width="200" FontWeight="Bold" Grid.Column="2" Grid.ColumnSpan="3"/>
+        <Button x:Name="btnCadastrar" Content="Cadastrar" HorizontalAlignment="Left" Margin="3,274,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_Cadastrar" Grid.Column="2" Grid.ColumnSpan="2" Background="#FF68B1BD" Foreground="White" FontWeight="Bold"/>
+        <DataGrid x:Name="dataGrid" Grid.ColumnSpan="6" Grid.Column="1" HorizontalAlignment="Left" Height="82" Margin="19,-29,0,0" VerticalAlignment="Top" Width="543" SelectedCellsChanged="DataGrid_SelectedCellsChanged" Background="{x:Null}"/>
+        <Button x:Name="btnConsultar" Content="Consultar" Grid.Column="4" HorizontalAlignment="Left" Margin="7,274,0,0" VerticalAlignment="Top" Width="75" Click="BtnConsultar_Click" Background="#FF68B1C1" Foreground="White" FontWeight="Bold"/>
+        <Button x:Name="btnAtualizar" Content="Atualizar" Grid.Column="4" HorizontalAlignment="Left" Margin="89,274,0,0" VerticalAlignment="Top" Width="75" Click="BtnAtualizar_Click" Background="#FF68B1BD" Foreground="White" FontWeight="Bold"/>
+        <TextBox x:Name="txtId" HorizontalAlignment="Left" Height="25" Margin="4,91,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="64" BorderBrush="#FFAEAEAE" Foreground="#FF632B2B" Grid.ColumnSpan="2" IsReadOnly="True" Grid.Column="2" AllowDrop="True" Background="White"/>
+        <Label Content="Id: " HorizontalAlignment="Left" Margin="5,67,0,0" VerticalAlignment="Top" Width="200" FontWeight="Bold" Grid.ColumnSpan="3" Grid.Column="2"/>
+        <DatePicker x:Name="datacol" Grid.Column="2" HorizontalAlignment="Left" Margin="3,201,0,0" VerticalAlignment="Top" Grid.ColumnSpan="3" Width="149"/>
+        <Button x:Name="btExcluir" Content="Excluir" Grid.Column="4" HorizontalAlignment="Left" Margin="172,274,0,0" VerticalAlignment="Top" Width="76" Click="BtExcluir_Click" Background="#FFBD6868" Foreground="White" FontWeight="Bold"/>
+
+    </Grid>
+</Window>

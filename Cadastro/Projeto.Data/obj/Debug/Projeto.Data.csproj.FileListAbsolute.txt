@@ -1,0 +1,11 @@
+C:\Users\User\Documents\Desafio VVS\Desafio\Projeto.Data\bin\Debug\Projeto.Data.dll
+C:\Users\User\Documents\Desafio VVS\Desafio\Projeto.Data\bin\Debug\Projeto.Data.pdb
+C:\Users\User\Documents\Desafio VVS\Desafio\Projeto.Data\obj\Debug\Projeto.Data.csprojAssemblyReference.cache
+C:\Users\User\Documents\Desafio VVS\Desafio\Projeto.Data\obj\Debug\Projeto.Data.Properties.Resources.resources
+C:\Users\User\Documents\Desafio VVS\Desafio\Projeto.Data\obj\Debug\Projeto.Data.csproj.GenerateResource.cache
+C:\Users\User\Documents\Desafio VVS\Desafio\Projeto.Data\obj\Debug\Projeto.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Desafio VVS\Desafio\Projeto.Data\obj\Debug\Projeto.Data.dll
+C:\Users\User\Documents\Desafio VVS\Desafio\Projeto.Data\obj\Debug\Projeto.Data.pdb
+C:\Users\User\Documents\Desafio VVS\Desafio\Projeto.Data\bin\Debug\Dapper.dll
+C:\Users\User\Documents\Desafio VVS\Desafio\Projeto.Data\bin\Debug\Dapper.xml
+C:\Users\User\Documents\Desafio VVS\Desafio\Projeto.Data\obj\Debug\Projeto.Data.csproj.CopyComplete

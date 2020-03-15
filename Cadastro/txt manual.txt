@@ -1,0 +1,6 @@
+1º - Criar label de login e senha
+2º - Criar classe de login e senha
+3º - Criar um objeto(GitHubClient gitHubClient)
+4º - Sempre iniciar o código com gitHubClient= new GitHubClient(new ProductHeaderValue("acesso"));
+3º - Receber os dados da label no login e senha informado na classe criada.
+4º - Autenticar o login e a senha utilizando o objeto (Credentials)
